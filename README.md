@@ -26,3 +26,6 @@ java Feedforward
 # Conclusion
 
 ANN is magical!
+
+
+```can you spot there are some numbers ANN failed to recognize?```
