@@ -5,6 +5,7 @@ Feedforward is a Java program that uses ```Artificial Neural Network``` to recog
 # Usage
 
 The main file is [Feedforward.java](https://github.com/Xiao4Dan/Feedforward/blob/master/Feedforward.java)
+
 You need to move ```numbers``` folder into ```feedforward``` folder
 
 * Command Line
